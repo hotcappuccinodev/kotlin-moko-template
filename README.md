@@ -119,23 +119,3 @@ framework {
 All development of template is performed in the `master` branch. Please send PRs with bug fixes to the `master` branch.
 
 Please refer to the [contributing guide](CONTRIBUTING.md) for more details.
-
-## Thanks
-We test Apple Silicon support with [MacStadium](https://www.macstadium.com/).
-![macstadium](https://uploads-ssl.webflow.com/5ac3c046c82724970fc60918/5c019d917bba312af7553b49_MacStadium-developerlogo.png)
-
-## License
-
-    Copyright 2019 IceRock MAG Inc
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-       http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
