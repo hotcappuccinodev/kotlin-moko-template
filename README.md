@@ -113,9 +113,3 @@ framework {
     export(projects.mppLibrary.feature.myfeature)
 }
 ```
-
-## Contributing
-
-All development of template is performed in the `master` branch. Please send PRs with bug fixes to the `master` branch.
-
-Please refer to the [contributing guide](CONTRIBUTING.md) for more details.
